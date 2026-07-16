@@ -1,2 +1,3 @@
 # uwec.dev
-Website for UWEC Computer Science
+
+Student run website for UWEC Computer Science
