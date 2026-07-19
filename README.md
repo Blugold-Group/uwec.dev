@@ -12,6 +12,8 @@ Inspirations:
 - [https://uwindsorcss.github.io/wiki/](https://uwindsorcss.github.io/wiki/)
 
 ## Todo:
+- [ ] A thing saying that this is an unofficial guide without faculty endorsement
+- [ ] A thing pointing people to where they can contribute to this wiki
 - [ ] Add a clubs section
     - [ ] Page for SACM
     - [ ] Page for cyber club
