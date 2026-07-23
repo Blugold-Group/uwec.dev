@@ -44,3 +44,4 @@ Inspirations:
 - [ ] A point of contact for new students to contact with questions (could be someone's email address or a club discord)
 - [ ] Places to study
 - [ ] Things that CS people should learn and won't learn in class
+- [ ] Add a landing page for UWEC's Mersenne Prime search team
