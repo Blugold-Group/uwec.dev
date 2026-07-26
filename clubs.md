@@ -27,11 +27,11 @@ The Student Association for Computing Machinery (SACM) covers a broad range of t
 
 ---
 
-# UWEC Cybsersecurity
+# UWEC Cybersecurity
 
 The UWEC Cybersecurity Club offers education on all topics of cybersecurity, such as:
 
-- Cyber Threat Inteligence
+- Cyber Threat Intelligence
 - Web Security
 - Red Teaming
 - Pen Testing
