@@ -14,12 +14,12 @@ Inspirations:
 ## Todo:
 - [ ] A thing saying that this is an unofficial guide without faculty endorsement
 - [x] A thing pointing people to where they can contribute to this wiki
-- [ ] Add a clubs section
-    - [ ] Page for SACM
-    - [ ] Page for cyber club
-    - [ ] Page for Rocketry club
-    - [ ] Page for electronics club
-    - Probably want a set of things to say about each club
+- [x] Add a clubs ~~section~~ *page
+    - [ ] SACM section (SACM subdomain of uwec.dev?)
+    - [x] Cyber Club section
+    - [ ] Rocketry club section (Is this a CS club or is this a Jack Hagen does STEM as a CS major?)
+    - [x] Electronics club section (Need info from Jackson?)
+    - Probably want a set of things to say about each club 
         - Meeting time
         - Summary
         - Some pictures

@@ -6,6 +6,7 @@ Welcome to the University of Wisconsin Eau Claire's student run Computer Science
 
 # Pages
 
+- [Clubs](/clubs)
 - More to come...
 
 # Contributing
