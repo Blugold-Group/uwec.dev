@@ -14,6 +14,14 @@ Welcome to the **University of Wisconsin Eau Claire's** student run Computer Sci
 
 ---
 
+# External Links
+
+- [UWEC CS Docs](https://docs.cs.uwec.edu/)
+- [UWEC HPC Docs](https://docs.hpc.uwec.edu/)
+- [UW System Network Page](https://stats.uwsys.net/)
+
+---
+
 # Contributing
 
 If you are a UWEC student, feel free to contribute! You can find the repo on GitHub [here](https://github.com/Blugold-Group/uwec.dev). The process of contribution follows this workflow:
