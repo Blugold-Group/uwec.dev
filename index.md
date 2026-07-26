@@ -2,12 +2,17 @@
 layout: default
 ---
 
-Welcome to the University of Wisconsin Eau Claire's student run Computer Science website.
+Welcome to the **University of Wisconsin Eau Claire's** student run Computer Science website.
+
+---
 
 # Pages
 
 - [Clubs](/clubs)
+- [Computer Science Department FAQ](/faq)
 - More to come...
+
+---
 
 # Contributing
 
