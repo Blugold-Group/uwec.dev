@@ -4,6 +4,8 @@ layout: default
 
 The following is a list of clubs within the Computer Science Department at UWEC.
 
+---
+
 # UWEC SACM
 
 The Student Association for Computing Machinery (SACM) covers a broad range of topics within the realm of Computer Science. These include:
@@ -22,6 +24,8 @@ The Student Association for Computing Machinery (SACM) covers a broad range of t
 
 ![temporary image](https://media.tenor.com/B6ryD6pFy7QAAAAj/steamhappy-steam.gif)
 
+---
+
 # UWEC Cybsersecurity
 
 The UWEC Cybersecurity Club offers education on all topics of cybersecurity, such as:
@@ -37,6 +41,8 @@ Come hang out with us from 6pm to 7pm every Tuesday in Vicki Lord Larson 1132 (i
 ## Pictures
 
 ![temporary image](https://media.tenor.com/B6ryD6pFy7QAAAAj/steamhappy-steam.gif)
+
+---
 
 # Hardware Electronics Club
 
