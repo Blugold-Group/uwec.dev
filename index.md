@@ -2,22 +2,32 @@
 layout: default
 ---
 
-Welcome to the University of Wisconsin Eau Claire's student run Computer Science website. 
+Welcome to the **University of Wisconsin Eau Claire's** student run Computer Science website.
 
-# Clubs
+---
 
-The following is a list of clubs within the Computer Science Department at UWEC.
+# Pages
 
-## UWEC SACM
+- [Clubs](/clubs)
+- [Computer Science Department FAQ](/faq)
+- More to come...
 
-The Student Association for Computing Machinery (SACM) covers a broad range of topics within the realm of Computer Science. 
+---
 
-## UWEC Cybsersecurity
+# External Links
 
-The Student Association for Computing Machinery (SACM) covers a broad range of topics within the realm of Computer Science. 
+- [UWEC CS Docs](https://docs.cs.uwec.edu/)
+- [UWEC HPC Docs](https://docs.hpc.uwec.edu/)
+- [UW System Network Page](https://stats.uwsys.net/)
 
-- List
-- Things
-- Here
+---
 
-You can find our website here: [https://blugold.group](https://blugold.group)
+# Contributing
+
+If you are a UWEC student, feel free to contribute! You can find the repo on GitHub [here](https://github.com/Blugold-Group/uwec.dev). The process of contribution follows this workflow:
+
+1. Create a fork of the GitHub repository.
+2. Make your changes, commit & push them.
+3. Open a pull request on the main repository detailing your changes.
+4. Then wait for one of the maintainers to review the changes before they're merged.
+5. Repeat!
