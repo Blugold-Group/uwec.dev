@@ -15,7 +15,7 @@ Inspirations:
 - [ ] A thing saying that this is an unofficial guide without faculty endorsement
 - [x] A thing pointing people to where they can contribute to this wiki
 - [x] Add a clubs ~~section~~ *page
-    - [ ] SACM section (SACM subdomain of uwec.dev?)
+    - [x] SACM section (SACM subdomain of uwec.dev?)
     - [x] Cyber Club section
     - [ ] Rocketry club section (Is this a CS club or is this a Jack Hagen does STEM as a CS major?)
     - [x] Electronics club section (Need info from Jackson?)
@@ -23,15 +23,15 @@ Inspirations:
         - Meeting time
         - Summary
         - Some pictures
-- [ ] FAQ page
-    - [ ] What computer do I need?
-    - [ ] What's the difference between SE and CS?
-    - [ ] How do I get an internship? Should I get an internship? When?
-    - [ ] Why join clubs?
-    - [ ] How should I use AI in class?
-    - [ ] How am I going to get a job if AI exists?
-    - [ ] How do I choose what field to go into?
-    - [ ] What is research? Should I do it?
+- [x] FAQ page
+    - [x] What computer do I need?
+    - [x] What's the difference between SE and CS?
+    - [x] How do I get an internship? Should I get an internship? When?
+    - [x] Why join clubs?
+    - [x] How should I use AI in class?
+    - [x] How am I going to get a job if AI exists?
+    - [x] How do I choose what field to go into?
+    - [ ] What is research? Should I do it? (Jack do this one)
 - [ ] Page for different fields of CS and how to get into them at UWEC
 - [ ] Page detailing and giving tips for all CS classes
     - [ ] Also resources for students to prepare before the class
