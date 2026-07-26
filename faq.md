@@ -10,7 +10,7 @@ Going into a degree from the Computer Science department at UWEC isn't always st
 
 ### What computer do I need?
 
-Just about any laptop running Windows 11 (or a distribution Linux if you're feeling adventurous 😏) should do. Most classes take advantage of campus servers for most computation related tasks (such as compiling code, hosting databases, running LLMs) which can handle _far_ more than what is needed for classes.
+Just about any laptop running Windows 11 (or a distribution Linux if you're feeling adventurous 😏) should do. Most classes take advantage of campus servers for most computation related tasks (such as compiling code, hosting databases, running LLMs) which can handle _far_ more than what is needed for classes. See the [official laptop requirements](https://docs.cs.uwec.edu/laptop-requirements/) for more information. Honestly, in our experience any laptop that works in general will pretty much work for class, don't get too hung up on it.
 
 ### What's the difference between **Software Engineering** and **Computer Science**?
 
