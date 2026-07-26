@@ -11,8 +11,9 @@ The following is a list of clubs within the Computer Science Department at UWEC.
 The Student Association for Computing Machinery (SACM) covers a broad range of topics within the realm of Computer Science. These include:
 
 - Software Engineering
-- Hardware
+- Self Hosting
 - Networking
+- Hardware Management
 
 <!-- 
     We need more than this but
